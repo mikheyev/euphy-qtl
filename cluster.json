@@ -6,5 +6,6 @@
         "mem" : "10G",
         "time": "5-00:00:00" 
     },
-    "trinity": {"partition" : "largemem"}
+    "trinity": {"partition" : "largemem"},
+    "trinityGG": {"partition" : "largemem"}
 }
